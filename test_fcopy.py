@@ -1,3 +1,3 @@
 from fcopy import *
 
-main()
+fcopy("data/input1.txt", "data/output1.txt")
