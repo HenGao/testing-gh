@@ -1,1 +1,3 @@
-    
+from fcopy import *
+
+main()
